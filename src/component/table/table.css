@@ -1,0 +1,32 @@
+.Table{
+    margin: 0 auto;
+    padding-top: 5rem;
+    padding-bottom: 10rem;
+}
+
+table{
+    width: 60%;
+    margin: 0 auto;
+}
+
+thead{
+    width: 100%;
+}
+
+.Table-body{
+    
+}
+
+.Row-head{
+    width: 100%;
+    background-color: rgb(164, 164, 223);
+}
+
+.Row-body{
+    width: 100%;
+    background-color: rgb(238, 199, 199);
+}
+
+#s-n{
+    text-align: center;
+}
